@@ -44,6 +44,8 @@ for this homework assignment in your GitHub account. Periodically push your comm
 to GitHub. When done with the assignment, paste in the URL of your GitHub project
 so that I can go look at it.
 
+> https://github.com/stevenxperkins95/hw2
+
 ## Step 3 - Explore data folder
 
 Inside of the main project folder you'll find the data files for this assignment in a subfolder called `data/`.
